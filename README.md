@@ -1,6 +1,5 @@
 # nodejs-basic-webserver
 
-
 # Task 4: Creating a Simple Webpage and Hosting Locally with Node.js and Express.js
 
 In this task, you will learn how to create a basic webpage and host it locally using Node.js and Express.js. This README will guide you through the necessary steps to complete the task.
@@ -12,6 +11,8 @@ Before you start, make sure you have the following software and tools installed 
 - [Node.js](https://nodejs.org/): Make sure Node.js is installed on your computer.
 
 ## Task Instructions
+
+**Task 4: Set up a Project Directory and Create a Simple Webpage**
 
 1. **Set up a Project Directory**: Create a new directory for your project, and navigate to it in your terminal.
 
@@ -67,11 +68,7 @@ Before you start, make sure you have the following software and tools installed 
 
 ## Conclusion
 
-You have successfully created a basic webpage and hosted it locally using Node.js and Express.js. Make sure to commit your code to GitHub as instructed. This completes Task 4.
-
-Feel free to customize your webpage and server further or explore more features of Express.js as you continue with your course.
+I have successfully created a basic webpage and hosted it locally using Node.js and Express.js. Make sure to commit your code to GitHub as instructed. This completes Task 4.
 
 Happy coding!
 ```
-
-Feel free to customize this README file according to your course's specific requirements and your preferences.

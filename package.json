@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "server-application-logic",
+  "version": "1.0.0",
+  "description": "routing web pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SANJAY P M",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
